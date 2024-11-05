@@ -1,0 +1,12 @@
+/* Button.module.css */
+
+.btn {
+  @apply bg-green-600 text-white border-2 border-green-700 p-3 
+}
+
+.main {
+  @apply justify-center
+}
+.btn-symbol {
+  @apply bg-orange-500 text-white border-2 border-orange-600
+}
